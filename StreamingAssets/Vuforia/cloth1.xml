@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="VectorMarker" size="5.000000 2.809524" />
+    <ImageTarget name="image-5" size="5.000000 8.862816" />
+    <ImageTarget name="image-4" size="0.500000 0.886282" />
+    <ImageTarget name="image-3" size="0.500000 0.563636" />
+    <ImageTarget name="image-2" size="0.500000 0.500000" />
+  </Tracking>
+</QCARConfig>
